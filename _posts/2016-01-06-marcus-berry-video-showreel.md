@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Marcus Berry
-    url: 'https://www.youtube.com/user/voiceberry'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - showreel
   - duration
@@ -21,7 +16,13 @@ keywords:
   - '2015'
   - v-ray
 description: Commercial showreel of commercials performed by international voiceover artist Marcus Berry.
-inLanguage: en
+datePublished: '2016-01-06T14:50:50.433Z'
+dateModified: '2016-01-06T14:49:59.450Z'
+author:
+  - name: Marcus Berry
+    url: 'https://www.youtube.com/user/voiceberry'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=nvgp7ik2jqI&feature=applinks'
     type: ios
@@ -33,15 +34,16 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=nvgp7ik2jqI&feature=applinks'
     type: web
-isBasedOnUrl: 'https://www.youtube.com/watch?v=nvgp7ik2jqI'
 title: Marcus Berry Video Showreel
-datePublished: '2016-01-06T14:27:52.653Z'
-dateModified: '2016-01-06T14:27:23.310Z'
 sourcePath: _posts/2016-01-06-marcus-berry-video-showreel.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+url: marcus-berry-video-showreel/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
